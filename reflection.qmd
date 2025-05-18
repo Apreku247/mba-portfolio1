@@ -1,0 +1,41 @@
+---
+title: "Reflection on Using LLMs"
+---
+
+# Reflection on Using LLMs for Portfolio Development
+
+*Word count: 475*
+
+## Evolution of My LLM Usage
+
+My journey with Large Language Models (LLMs) has evolved significantly as I expanded my single-page portfolio into a comprehensive multi-page website. Initially, I approached LLMs as simple content generators, but through this process, I've developed a more nuanced understanding of their capabilities and limitations.
+
+### What Worked Better with Multi-Page Development
+
+The multi-page format allowed me to leverage LLMs more effectively in several ways:
+
+**Structured Content Organization**: Breaking down my portfolio into distinct pages enabled me to provide more specific prompts to the LLM. Rather than requesting generic portfolio content, I could ask for targeted sections like "Create a comprehensive skills page for a banking professional transitioning to data analytics." This specificity resulted in more relevant and detailed content.
+
+**Iterative Refinement**: The multi-page approach facilitated an iterative process where I could refine each section independently. I found that feeding the LLM with my revisions and asking for improvements on specific pages yielded increasingly polished content that better reflected my voice and experience.
+
+**Content Consistency**: I discovered that providing the LLM with previously generated sections helped maintain consistency across pages. By instructing the model to "maintain the same tone and style as my about page," I achieved a cohesive feel throughout the site while still allowing each page to serve its unique purpose.
+
+**Specialized Formatting**: For pages requiring specific formats (like my resume), I found that providing the LLM with clear structural guidelines resulted in well-organized content that required minimal reformatting.
+
+## Ensuring Authenticity and Accuracy
+
+Maintaining the authenticity and accuracy of my portfolio was paramount. I implemented several strategies to achieve this:
+
+**Fact-Checking**: I meticulously reviewed all LLM-generated content against my actual experiences and credentials, correcting any inaccuracies or embellishments. This was particularly important for my resume and projects pages, where specific details needed to be precise.
+
+**Personal Voice Infusion**: After receiving initial drafts, I rewrote sections to better reflect my personal communication style and professional perspective. This involved adding specific anecdotes and insights that only I could provide.
+
+**Selective Content Integration**: Rather than accepting complete sections verbatim, I adopted a selective approach—incorporating helpful structural elements and phrasing while discarding generic content that didn't authentically represent me.
+
+**Contextual Adaptation**: I adapted the LLM-generated content to reflect the specific contexts of my experiences in Ghana and Canada, ensuring cultural and industry-specific nuances were accurately represented.
+
+## Conclusion
+
+My approach to using LLMs has matured from viewing them as content creators to seeing them as collaborative thinking partners. The most effective strategy proved to be using LLMs for initial structure and ideas, then heavily customizing the content with my personal experiences and voice.
+
+This process has not only resulted in a more authentic portfolio but has also deepened my understanding of how to effectively collaborate with AI tools—a skill that will undoubtedly be valuable in my future career in data analytics and digital transformation.

@@ -1,0 +1,52 @@
+---
+title: "Edward Martin Apreku"
+image: "images/ed.jpg"
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/edward-martin-apreku
+    - icon: github
+      text: Github
+      href: https://github.com/edwardapreku
+    - icon: envelope
+      text: Email
+      href: mailto:apreku247@gmail.com
+---
+
+# Welcome to My Portfolio
+
+## MBA Candidate & Banking Professional
+
+I am an MBA candidate with over 10 years of experience in banking and client relations, currently transitioning into data analytics and digital transformation. I'm passionate about leveraging technology to drive business growth and enhance customer experiences.
+
+![Edward Martin Apreku](images/df.jpg){.profile-image}
+
+## Professional Journey
+
+Throughout my career in the banking sector, I've developed expertise in:
+
+Portfolio management
+
+Team leadership
+
+Client relationship management
+
+Operational efficiency
+
+Digital transformation initiatives
+
+## Current Focus
+
+As I pursue my MBA at University Canada West (expected 2025), I'm focusing on expanding my knowledge in:
+
+**Data Analytics**
+
+**Digital Transformation**
+
+**Strategic Management**
+
+**Sustainable Business Practices**
+
+[Learn more about me](about.qmd){.btn .btn-primary} [View my resume](resume.qmd){.btn .btn-secondary}

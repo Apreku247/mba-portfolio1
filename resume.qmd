@@ -1,0 +1,122 @@
+---
+title: "Resume"
+---
+
+# Edward Martin Apreku
+
+📍 Unit 705, 10887 Old Yale Road, Surrey, BC, V9T 0V9  
+📧 [apreku247@gmail.com](mailto:apreku247@gmail.com) | 📞 778-892-4440  
+[LinkedIn Profile](https://linkedin.com/in/edward-martin-apreku) | [Download Full Resume (PDF)](files/edward.pdf){.resume-download-btn}
+
+## Professional Summary
+
+An MBA candidate with over 10 years of experience in banking and client relations, currently transitioning into data analytics and digital transformation. Adept at managing portfolios, leading teams, and enhancing community wellness through mental health initiatives. Recognized for strong leadership, operational efficiency, and exceptional interpersonal skills.
+
+## Education
+
+### MBA
+**University Canada West** | Vancouver, BC  
+*Expected 2025*
+
+### Global Network School Program
+**Yale School of Management** | U.S.A  
+*2020*
+
+### Enterprise-Wide Transformation Program
+**MIT Sloan School of Management** | U.S.A  
+*2020*
+
+### BA in Geography & Resource Development
+**University of Ghana** | Accra, Ghana  
+*2010*
+
+## Professional Experience
+
+### Mental Health Support Worker (Part-time)
+**Coast Mental Health** | Vancouver, BC  
+*2023–Present*
+
+- Provide compassionate wellness support through active listening and empathy
+- Collaborate with interdisciplinary healthcare teams to develop and maintain individualized care plans for clients
+- Facilitate group sessions focused on mental health awareness and coping strategies
+- Document client interactions and progress in accordance with organizational protocols
+
+### Relationship Manager
+**GTBANK Ghana** | Accra, Ghana  
+*2017–2023*
+
+- Developed tailored client strategies, effectively managing a diverse portfolio of over 100 high-value clients
+- Led and mentored a team of 5 account officers, enhancing customer retention by 18%
+- Implemented digital banking solutions that increased client adoption of online services by 35%
+- Exceeded annual revenue targets by an average of 15% through strategic relationship management
+- Collaborated with cross-functional teams to develop and launch new financial products
+
+### Team Lead, Client Relationship Manager
+**XYZ Bank** | Ghana  
+*2015–2022*
+
+- Managed high-net-worth portfolios totaling over $50M, achieving a 22% increase in asset value
+- Led a team of 8 professionals, consistently surpassing quarterly sales and service goals
+- Developed and implemented client retention strategies that improved satisfaction scores by 27%
+- Streamlined operational processes, reducing transaction processing time by 30%
+- Recognized as "Manager of the Year" for two consecutive years (2019, 2020)
+
+### Customer Service Officer
+**GTBANK Ghana** | Accra, Ghana  
+*2013–2017*
+
+- Processed and managed client account applications, resolving issues promptly
+- Supported client acquisition and customer service campaigns, improving retention by 15%
+- Trained new staff members on bank procedures and customer service protocols
+- Maintained accurate records and ensured compliance with banking regulations
+- Received "Customer Service Excellence" award in 2016
+
+### Data Processing Officer
+**Ghana Statistical Service** | Accra, Ghana  
+*2012–2013*
+
+- Managed national census data for over 25 million citizens
+- Conducted data validation and digital cleanup to ensure the accuracy of national records
+- Collaborated with regional teams to standardize data collection methodologies
+- Contributed to the development of data visualization tools for public information dissemination
+
+### Cashier
+**KRIF Ghana Ltd.** | Accra, Ghana  
+*2010–2012*
+
+- Managed daily transactions with precision, ensuring accuracy in retail operations
+- Balanced cash drawers with 100% accuracy and maintained detailed financial records
+- Provided exceptional customer service, contributing to increased customer satisfaction
+- Assisted in inventory management and product restocking
+
+## Projects & Volunteering
+
+### Volunteer Teaching Assistant
+**Innovations for Poverty Action** | Ghana  
+*Aug–Sept 2010*
+
+- Administered student assessments in rural schools across Ghana
+- Supported classroom teaching and contributed to measuring educational outcomes
+- Developed supplementary learning materials for students with diverse learning needs
+
+## Skills
+
+- **Technical**: Data Analysis, MS Office Suite, CRM Systems, Financial Modeling
+- **Management**: Strategic Planning, Team Leadership, Project Management, Time Management
+- **Client Relations**: Relationship Building, Needs Assessment, Conflict Resolution
+- **Communication**: Public Speaking, Business Writing, Cross-cultural Communication
+- **Industry Knowledge**: Banking Operations, Financial Products, Regulatory Compliance
+
+## Certifications
+
+- Certified Banking Professional (CBP), 2019
+- Project Management Professional (PMP), 2018
+- Financial Modeling & Valuation Analyst (FMVA), 2017
+
+## Languages
+
+- English (Native)
+- Twi (Native)
+- French (Basic)
+
+[View my projects](projects.qmd){.btn .btn-primary} [Contact me](contact.qmd){.btn .btn-secondary}

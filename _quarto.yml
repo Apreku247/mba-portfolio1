@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Edward Martin Apreku"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: resume.qmd
+        text: Resume
+      - href: projects.qmd
+        text: Projects
+      - href: skills.qmd
+        text: Skills
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme:
+      - cosmo
+    css: styles.css
+    toc: true
+    include-in-header: 
+      - header.html

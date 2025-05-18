@@ -1,0 +1,95 @@
+---
+title: "Projects & Case Studies"
+---
+
+
+
+Throughout my career and academic journey, I've been involved in various projects that showcase my skills and expertise. Here are some highlights:
+
+## Professional Projects
+
+### Digital Transformation Initiative at GTBANK Ghana
+**2020-2022**
+
+![Digital Banking](images/di.jpg)
+
+Led a team of 5 professionals in implementing a digital transformation strategy that resulted in:
+
+- 35% increase in digital banking adoption among clients
+- 28% reduction in processing time for client transactions
+- Development of a new mobile banking interface with enhanced user experience
+
+**Skills Applied**: Project Management, Change Management, Digital Strategy, Team Leadership
+
+---
+
+### High-Net-Worth Portfolio Optimization
+**2018-2020**
+
+As Team Lead at XYZ Bank, I developed and implemented a portfolio optimization strategy for high-net-worth clients that:
+
+- Increased portfolio value by 22% over two years
+- Improved client retention rate from 85% to 94%
+- Established a new service model that was adopted company-wide
+
+**Skills Applied**: Financial Analysis, Client Relationship Management, Strategic Planning
+
+---
+
+## Academic Projects
+
+### MBA Capstone: Sustainable Banking Practices
+**University Canada West, 2023-Present**
+
+Currently researching and developing a framework for implementing sustainable banking practices in traditional financial institutions, focusing on:
+
+- Environmental impact assessment of banking operations
+- Integration of ESG criteria in lending decisions
+- Development of green financial products
+
+**Skills Applied**: Research Methodology, Sustainability Analysis, Financial Product Development
+
+---
+
+### Data Analytics for Customer Segmentation
+**University Canada West, 2023**
+
+![Data Analytics](https://source.unsplash.com/random/800×400/?data-analytics)
+
+Conducted a comprehensive analysis of customer data to develop an enhanced segmentation model that:
+
+- Identified 3 previously unrecognized high-value customer segments
+- Provided actionable insights for targeted marketing strategies
+- Created a dashboard for real-time monitoring of segment performance
+
+**Skills Applied**: Data Analysis, Statistical Modeling, Business Intelligence, Visualization
+
+---
+
+## Volunteer Projects
+
+### Financial Literacy Workshop Series
+**Community Outreach Initiative, 2021-2022**
+
+Developed and facilitated a series of workshops on financial literacy for underserved communities in Ghana, reaching over 200 participants and resulting in:
+
+- 65% of participants opening their first bank account
+- 78% reporting improved understanding of personal finance
+- Creation of a financial literacy handbook distributed to local schools
+
+**Skills Applied**: Curriculum Development, Public Speaking, Community Engagement
+
+---
+
+### Mental Health Awareness Campaign
+**Coast Mental Health, Vancouver, 2023**
+
+Contributed to the development and implementation of a community awareness campaign about mental health resources, which:
+
+- Reached over 1,000 community members
+- Increased resource utilization by 25%
+- Created partnerships with 5 local businesses for ongoing support
+
+**Skills Applied**: Campaign Planning, Community Outreach, Partnership Development
+
+[View my skills](skills.qmd){.btn .btn-primary} [Contact me](contact.qmd){.btn .btn-secondary}

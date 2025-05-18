@@ -1,0 +1,226 @@
+[
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Banking Skills\n\n\n\nPortfolio Management: Experienced in managing diverse client portfolios and optimizing asset allocation\nFinancial Analysis: Proficient in analyzing financial statements and market trends\nRisk Assessment: Skilled in evaluating and mitigating financial risks\nRegulatory Compliance: In-depth knowledge of banking regulations and compliance requirements\nProduct Development: Experience in developing and launching financial products\n\n\n\n\n\nTeam Leadership: Led teams of up to 8 professionals, fostering collaboration and growth\nStrategic Planning: Developed and implemented strategic initiatives aligned with organizational goals\nPerformance Management: Established KPIs and performance evaluation systems\nMentoring: Guided junior staff through professional development\nChange Management: Successfully led teams through organizational changes and digital transformation\n\n\n\n\n\nRelationship Building: Established and maintained strong client relationships\nNeeds Assessment: Identified client needs and provided tailored solutions\nConflict Resolution: Effectively resolved client concerns and complaints\nClient Retention: Implemented strategies resulting in high client retention rates\nService Excellence: Consistently delivered exceptional client service\n\n\n\n\n\nData Analysis: Proficient in analyzing and interpreting complex data sets\nMS Office Suite: Advanced skills in Excel, Word, PowerPoint, and Outlook\nCRM Systems: Experienced in using and optimizing customer relationship management tools\nDigital Banking Platforms: Knowledge of online and mobile banking systems\nBusiness Intelligence Tools: Familiar with data visualization and reporting tools"
+  },
+  {
+    "objectID": "skills.html#professional-skills",
+    "href": "skills.html#professional-skills",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Banking Skills\n\n\n\nPortfolio Management: Experienced in managing diverse client portfolios and optimizing asset allocation\nFinancial Analysis: Proficient in analyzing financial statements and market trends\nRisk Assessment: Skilled in evaluating and mitigating financial risks\nRegulatory Compliance: In-depth knowledge of banking regulations and compliance requirements\nProduct Development: Experience in developing and launching financial products\n\n\n\n\n\nTeam Leadership: Led teams of up to 8 professionals, fostering collaboration and growth\nStrategic Planning: Developed and implemented strategic initiatives aligned with organizational goals\nPerformance Management: Established KPIs and performance evaluation systems\nMentoring: Guided junior staff through professional development\nChange Management: Successfully led teams through organizational changes and digital transformation\n\n\n\n\n\nRelationship Building: Established and maintained strong client relationships\nNeeds Assessment: Identified client needs and provided tailored solutions\nConflict Resolution: Effectively resolved client concerns and complaints\nClient Retention: Implemented strategies resulting in high client retention rates\nService Excellence: Consistently delivered exceptional client service\n\n\n\n\n\nData Analysis: Proficient in analyzing and interpreting complex data sets\nMS Office Suite: Advanced skills in Excel, Word, PowerPoint, and Outlook\nCRM Systems: Experienced in using and optimizing customer relationship management tools\nDigital Banking Platforms: Knowledge of online and mobile banking systems\nBusiness Intelligence Tools: Familiar with data visualization and reporting tools"
+  },
+  {
+    "objectID": "skills.html#certifications",
+    "href": "skills.html#certifications",
+    "title": "Skills & Certifications",
+    "section": "Certifications",
+    "text": "Certifications\n\nProfessional Certifications\n\nCertified Banking Professional (CBP)\nBanking Institute of Ghana | 2019\nProject Management Professional (PMP)\nProject Management Institute | 2018\nFinancial Modeling & Valuation Analyst (FMVA)\nCorporate Finance Institute | 2017\nCertified Customer Service Professional\nCustomer Service Institute of Ghana | 2015\n\n\n\nAcademic Certifications\n\nGlobal Network School Program Certificate\nYale School of Management | 2020\nEnterprise-Wide Transformation Program Certificate\nMIT Sloan School of Management | 2020"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on Using LLMs",
+    "section": "",
+    "text": "Word count: 475\n\n\nMy journey with Large Language Models (LLMs) has evolved significantly as I expanded my single-page portfolio into a comprehensive multi-page website. Initially, I approached LLMs as simple content generators, but through this process, I’ve developed a more nuanced understanding of their capabilities and limitations.\n\n\nThe multi-page format allowed me to leverage LLMs more effectively in several ways:\nStructured Content Organization: Breaking down my portfolio into distinct pages enabled me to provide more specific prompts to the LLM. Rather than requesting generic portfolio content, I could ask for targeted sections like “Create a comprehensive skills page for a banking professional transitioning to data analytics.” This specificity resulted in more relevant and detailed content.\nIterative Refinement: The multi-page approach facilitated an iterative process where I could refine each section independently. I found that feeding the LLM with my revisions and asking for improvements on specific pages yielded increasingly polished content that better reflected my voice and experience.\nContent Consistency: I discovered that providing the LLM with previously generated sections helped maintain consistency across pages. By instructing the model to “maintain the same tone and style as my about page,” I achieved a cohesive feel throughout the site while still allowing each page to serve its unique purpose.\nSpecialized Formatting: For pages requiring specific formats (like my resume), I found that providing the LLM with clear structural guidelines resulted in well-organized content that required minimal reformatting.\n\n\n\n\nMaintaining the authenticity and accuracy of my portfolio was paramount. I implemented several strategies to achieve this:\nFact-Checking: I meticulously reviewed all LLM-generated content against my actual experiences and credentials, correcting any inaccuracies or embellishments. This was particularly important for my resume and projects pages, where specific details needed to be precise.\nPersonal Voice Infusion: After receiving initial drafts, I rewrote sections to better reflect my personal communication style and professional perspective. This involved adding specific anecdotes and insights that only I could provide.\nSelective Content Integration: Rather than accepting complete sections verbatim, I adopted a selective approach—incorporating helpful structural elements and phrasing while discarding generic content that didn’t authentically represent me.\nContextual Adaptation: I adapted the LLM-generated content to reflect the specific contexts of my experiences in Ghana and Canada, ensuring cultural and industry-specific nuances were accurately represented.\n\n\n\nMy approach to using LLMs has matured from viewing them as content creators to seeing them as collaborative thinking partners. The most effective strategy proved to be using LLMs for initial structure and ideas, then heavily customizing the content with my personal experiences and voice.\nThis process has not only resulted in a more authentic portfolio but has also deepened my understanding of how to effectively collaborate with AI tools—a skill that will undoubtedly be valuable in my future career in data analytics and digital transformation."
+  },
+  {
+    "objectID": "reflection.html#evolution-of-my-llm-usage",
+    "href": "reflection.html#evolution-of-my-llm-usage",
+    "title": "Reflection on Using LLMs",
+    "section": "",
+    "text": "My journey with Large Language Models (LLMs) has evolved significantly as I expanded my single-page portfolio into a comprehensive multi-page website. Initially, I approached LLMs as simple content generators, but through this process, I’ve developed a more nuanced understanding of their capabilities and limitations.\n\n\nThe multi-page format allowed me to leverage LLMs more effectively in several ways:\nStructured Content Organization: Breaking down my portfolio into distinct pages enabled me to provide more specific prompts to the LLM. Rather than requesting generic portfolio content, I could ask for targeted sections like “Create a comprehensive skills page for a banking professional transitioning to data analytics.” This specificity resulted in more relevant and detailed content.\nIterative Refinement: The multi-page approach facilitated an iterative process where I could refine each section independently. I found that feeding the LLM with my revisions and asking for improvements on specific pages yielded increasingly polished content that better reflected my voice and experience.\nContent Consistency: I discovered that providing the LLM with previously generated sections helped maintain consistency across pages. By instructing the model to “maintain the same tone and style as my about page,” I achieved a cohesive feel throughout the site while still allowing each page to serve its unique purpose.\nSpecialized Formatting: For pages requiring specific formats (like my resume), I found that providing the LLM with clear structural guidelines resulted in well-organized content that required minimal reformatting."
+  },
+  {
+    "objectID": "reflection.html#ensuring-authenticity-and-accuracy",
+    "href": "reflection.html#ensuring-authenticity-and-accuracy",
+    "title": "Reflection on Using LLMs",
+    "section": "",
+    "text": "Maintaining the authenticity and accuracy of my portfolio was paramount. I implemented several strategies to achieve this:\nFact-Checking: I meticulously reviewed all LLM-generated content against my actual experiences and credentials, correcting any inaccuracies or embellishments. This was particularly important for my resume and projects pages, where specific details needed to be precise.\nPersonal Voice Infusion: After receiving initial drafts, I rewrote sections to better reflect my personal communication style and professional perspective. This involved adding specific anecdotes and insights that only I could provide.\nSelective Content Integration: Rather than accepting complete sections verbatim, I adopted a selective approach—incorporating helpful structural elements and phrasing while discarding generic content that didn’t authentically represent me.\nContextual Adaptation: I adapted the LLM-generated content to reflect the specific contexts of my experiences in Ghana and Canada, ensuring cultural and industry-specific nuances were accurately represented."
+  },
+  {
+    "objectID": "reflection.html#conclusion",
+    "href": "reflection.html#conclusion",
+    "title": "Reflection on Using LLMs",
+    "section": "",
+    "text": "My approach to using LLMs has matured from viewing them as content creators to seeing them as collaborative thinking partners. The most effective strategy proved to be using LLMs for initial structure and ideas, then heavily customizing the content with my personal experiences and voice.\nThis process has not only resulted in a more authentic portfolio but has also deepened my understanding of how to effectively collaborate with AI tools—a skill that will undoubtedly be valuable in my future career in data analytics and digital transformation."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Edward Martin Apreku",
+    "section": "",
+    "text": "I am an MBA candidate with over 10 years of experience in banking and client relations, currently transitioning into data analytics and digital transformation. I’m passionate about leveraging technology to drive business growth and enhance customer experiences.\n\n\n\nEdward Martin Apreku\n\n\n\n\n\nThroughout my career in the banking sector, I’ve developed expertise in:\nPortfolio management\nTeam leadership\nClient relationship management\nOperational efficiency\nDigital transformation initiatives\n\n\n\nAs I pursue my MBA at University Canada West (expected 2025), I’m focusing on expanding my knowledge in:\nData Analytics\nDigital Transformation\nStrategic Management\nSustainable Business Practices\nLearn more about me View my resume"
+  },
+  {
+    "objectID": "index.html#mba-candidate-banking-professional",
+    "href": "index.html#mba-candidate-banking-professional",
+    "title": "Edward Martin Apreku",
+    "section": "",
+    "text": "I am an MBA candidate with over 10 years of experience in banking and client relations, currently transitioning into data analytics and digital transformation. I’m passionate about leveraging technology to drive business growth and enhance customer experiences.\n\n\n\nEdward Martin Apreku"
+  },
+  {
+    "objectID": "index.html#professional-journey",
+    "href": "index.html#professional-journey",
+    "title": "Edward Martin Apreku",
+    "section": "",
+    "text": "Throughout my career in the banking sector, I’ve developed expertise in:\nPortfolio management\nTeam leadership\nClient relationship management\nOperational efficiency\nDigital transformation initiatives"
+  },
+  {
+    "objectID": "index.html#current-focus",
+    "href": "index.html#current-focus",
+    "title": "Edward Martin Apreku",
+    "section": "",
+    "text": "As I pursue my MBA at University Canada West (expected 2025), I’m focusing on expanding my knowledge in:\nData Analytics\nDigital Transformation\nStrategic Management\nSustainable Business Practices\nLearn more about me View my resume"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Professional Headshot\n\n\n\n\nI am a dedicated banking professional with over a decade of experience, currently pursuing an MBA at University Canada West. My career has been built on a foundation of exceptional client service, strategic portfolio management, and effective team leadership.\n\n\n\nMy professional journey began in Ghana, where I worked across various roles in the banking sector, progressively taking on more responsibility and leadership. From my early days as a Cashier at KRIF Ghana Ltd to becoming a Relationship Manager at GTBANK Ghana, I’ve consistently demonstrated a commitment to excellence and growth.\nCurrently, I’m expanding my horizons by working part-time as a Mental Health Support Worker at Coast Mental Health in Vancouver, where I provide compassionate wellness support through active listening and empathy.\n\n\n\nI believe in:\n\nContinuous Learning: Always seeking new knowledge and skills\nEthical Leadership: Leading with integrity and transparency\nClient-Centered Approach: Putting clients’ needs at the forefront\nInnovation: Embracing new technologies and methodologies\nCommunity Impact: Contributing positively to society\n\n\n\n\nOutside of my professional life, I enjoy:\n\nReading books on leadership and personal development\nHiking in the beautiful landscapes of British Columbia\nVolunteering for community initiatives\nExploring different cultures through travel and cuisine\n\n\n\n\n\nMBA, University Canada West (Expected 2025)\nGlobal Network School Program, Yale School of Management, U.S.A (2020)\nEnterprise-Wide Transformation Program, MIT Sloan School of Management, U.S.A (2020)\nBA in Geography & Resource Development, University of Ghana (2010)\n\nContact me View my projects"
+  },
+  {
+    "objectID": "about.html#who-i-am",
+    "href": "about.html#who-i-am",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a dedicated banking professional with over a decade of experience, currently pursuing an MBA at University Canada West. My career has been built on a foundation of exceptional client service, strategic portfolio management, and effective team leadership."
+  },
+  {
+    "objectID": "about.html#my-journey",
+    "href": "about.html#my-journey",
+    "title": "About Me",
+    "section": "",
+    "text": "My professional journey began in Ghana, where I worked across various roles in the banking sector, progressively taking on more responsibility and leadership. From my early days as a Cashier at KRIF Ghana Ltd to becoming a Relationship Manager at GTBANK Ghana, I’ve consistently demonstrated a commitment to excellence and growth.\nCurrently, I’m expanding my horizons by working part-time as a Mental Health Support Worker at Coast Mental Health in Vancouver, where I provide compassionate wellness support through active listening and empathy."
+  },
+  {
+    "objectID": "about.html#my-philosophy",
+    "href": "about.html#my-philosophy",
+    "title": "About Me",
+    "section": "",
+    "text": "I believe in:\n\nContinuous Learning: Always seeking new knowledge and skills\nEthical Leadership: Leading with integrity and transparency\nClient-Centered Approach: Putting clients’ needs at the forefront\nInnovation: Embracing new technologies and methodologies\nCommunity Impact: Contributing positively to society"
+  },
+  {
+    "objectID": "about.html#personal-interests",
+    "href": "about.html#personal-interests",
+    "title": "About Me",
+    "section": "",
+    "text": "Outside of my professional life, I enjoy:\n\nReading books on leadership and personal development\nHiking in the beautiful landscapes of British Columbia\nVolunteering for community initiatives\nExploring different cultures through travel and cuisine"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "MBA, University Canada West (Expected 2025)\nGlobal Network School Program, Yale School of Management, U.S.A (2020)\nEnterprise-Wide Transformation Program, MIT Sloan School of Management, U.S.A (2020)\nBA in Geography & Resource Development, University of Ghana (2010)\n\nContact me View my projects"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Me",
+    "section": "",
+    "text": "I’m always open to discussing new opportunities, collaborations, or just connecting with like-minded professionals.\n\n\n\nEmail: apreku247@gmail.com\nPhone: 778-892-4440\nAddress: Unit 705, 10887 Old Yale Road, Surrey, BC, V9T 0V9\nLinkedIn: linkedin.com/in/edward-martin-apreku\n\n\n\n\nI’m currently based in Vancouver, Canada, and am available for:\n\nFull-time opportunities in banking, finance, or data analytics\nConsulting projects related to digital transformation\nSpeaking engagements on banking innovation or leadership\nNetworking events in the Vancouver area\n\nFeel free to reach out through any of the channels above, and I’ll get back to you as soon as possible."
+  },
+  {
+    "objectID": "contact.html#contact-information",
+    "href": "contact.html#contact-information",
+    "title": "Contact Me",
+    "section": "",
+    "text": "Email: apreku247@gmail.com\nPhone: 778-892-4440\nAddress: Unit 705, 10887 Old Yale Road, Surrey, BC, V9T 0V9\nLinkedIn: linkedin.com/in/edward-martin-apreku"
+  },
+  {
+    "objectID": "contact.html#availability",
+    "href": "contact.html#availability",
+    "title": "Contact Me",
+    "section": "",
+    "text": "I’m currently based in Vancouver, Canada, and am available for:\n\nFull-time opportunities in banking, finance, or data analytics\nConsulting projects related to digital transformation\nSpeaking engagements on banking innovation or leadership\nNetworking events in the Vancouver area\n\nFeel free to reach out through any of the channels above, and I’ll get back to you as soon as possible."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects & Case Studies",
+    "section": "",
+    "text": "Throughout my career and academic journey, I’ve been involved in various projects that showcase my skills and expertise. Here are some highlights:"
+  },
+  {
+    "objectID": "projects.html#professional-projects",
+    "href": "projects.html#professional-projects",
+    "title": "Projects & Case Studies",
+    "section": "Professional Projects",
+    "text": "Professional Projects\n\nDigital Transformation Initiative at GTBANK Ghana\n2020-2022\n\n\n\nDigital Banking\n\n\nLed a team of 5 professionals in implementing a digital transformation strategy that resulted in:\n\n35% increase in digital banking adoption among clients\n28% reduction in processing time for client transactions\nDevelopment of a new mobile banking interface with enhanced user experience\n\nSkills Applied: Project Management, Change Management, Digital Strategy, Team Leadership\n\n\n\nHigh-Net-Worth Portfolio Optimization\n2018-2020\nAs Team Lead at XYZ Bank, I developed and implemented a portfolio optimization strategy for high-net-worth clients that:\n\nIncreased portfolio value by 22% over two years\nImproved client retention rate from 85% to 94%\nEstablished a new service model that was adopted company-wide\n\nSkills Applied: Financial Analysis, Client Relationship Management, Strategic Planning"
+  },
+  {
+    "objectID": "projects.html#academic-projects",
+    "href": "projects.html#academic-projects",
+    "title": "Projects & Case Studies",
+    "section": "Academic Projects",
+    "text": "Academic Projects\n\nMBA Capstone: Sustainable Banking Practices\nUniversity Canada West, 2023-Present\nCurrently researching and developing a framework for implementing sustainable banking practices in traditional financial institutions, focusing on:\n\nEnvironmental impact assessment of banking operations\nIntegration of ESG criteria in lending decisions\nDevelopment of green financial products\n\nSkills Applied: Research Methodology, Sustainability Analysis, Financial Product Development\n\n\n\nData Analytics for Customer Segmentation\nUniversity Canada West, 2023\n\n\n\nData Analytics\n\n\nConducted a comprehensive analysis of customer data to develop an enhanced segmentation model that:\n\nIdentified 3 previously unrecognized high-value customer segments\nProvided actionable insights for targeted marketing strategies\nCreated a dashboard for real-time monitoring of segment performance\n\nSkills Applied: Data Analysis, Statistical Modeling, Business Intelligence, Visualization"
+  },
+  {
+    "objectID": "projects.html#volunteer-projects",
+    "href": "projects.html#volunteer-projects",
+    "title": "Projects & Case Studies",
+    "section": "Volunteer Projects",
+    "text": "Volunteer Projects\n\nFinancial Literacy Workshop Series\nCommunity Outreach Initiative, 2021-2022\nDeveloped and facilitated a series of workshops on financial literacy for underserved communities in Ghana, reaching over 200 participants and resulting in:\n\n65% of participants opening their first bank account\n78% reporting improved understanding of personal finance\nCreation of a financial literacy handbook distributed to local schools\n\nSkills Applied: Curriculum Development, Public Speaking, Community Engagement\n\n\n\nMental Health Awareness Campaign\nCoast Mental Health, Vancouver, 2023\nContributed to the development and implementation of a community awareness campaign about mental health resources, which:\n\nReached over 1,000 community members\nIncreased resource utilization by 25%\nCreated partnerships with 5 local businesses for ongoing support\n\nSkills Applied: Campaign Planning, Community Outreach, Partnership Development\nView my skills Contact me"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "📍 Unit 705, 10887 Old Yale Road, Surrey, BC, V9T 0V9\n📧 apreku247@gmail.com | 📞 778-892-4440\nLinkedIn Profile | Download Full Resume (PDF)\n\n\nAn MBA candidate with over 10 years of experience in banking and client relations, currently transitioning into data analytics and digital transformation. Adept at managing portfolios, leading teams, and enhancing community wellness through mental health initiatives. Recognized for strong leadership, operational efficiency, and exceptional interpersonal skills.\n\n\n\n\n\nUniversity Canada West | Vancouver, BC\nExpected 2025\n\n\n\nYale School of Management | U.S.A\n2020\n\n\n\nMIT Sloan School of Management | U.S.A\n2020\n\n\n\nUniversity of Ghana | Accra, Ghana\n2010\n\n\n\n\n\n\nCoast Mental Health | Vancouver, BC\n2023–Present\n\nProvide compassionate wellness support through active listening and empathy\nCollaborate with interdisciplinary healthcare teams to develop and maintain individualized care plans for clients\nFacilitate group sessions focused on mental health awareness and coping strategies\nDocument client interactions and progress in accordance with organizational protocols\n\n\n\n\nGTBANK Ghana | Accra, Ghana\n2017–2023\n\nDeveloped tailored client strategies, effectively managing a diverse portfolio of over 100 high-value clients\nLed and mentored a team of 5 account officers, enhancing customer retention by 18%\nImplemented digital banking solutions that increased client adoption of online services by 35%\nExceeded annual revenue targets by an average of 15% through strategic relationship management\nCollaborated with cross-functional teams to develop and launch new financial products\n\n\n\n\nXYZ Bank | Ghana\n2015–2022\n\nManaged high-net-worth portfolios totaling over $50M, achieving a 22% increase in asset value\nLed a team of 8 professionals, consistently surpassing quarterly sales and service goals\nDeveloped and implemented client retention strategies that improved satisfaction scores by 27%\nStreamlined operational processes, reducing transaction processing time by 30%\nRecognized as “Manager of the Year” for two consecutive years (2019, 2020)\n\n\n\n\nGTBANK Ghana | Accra, Ghana\n2013–2017\n\nProcessed and managed client account applications, resolving issues promptly\nSupported client acquisition and customer service campaigns, improving retention by 15%\nTrained new staff members on bank procedures and customer service protocols\nMaintained accurate records and ensured compliance with banking regulations\nReceived “Customer Service Excellence” award in 2016\n\n\n\n\nGhana Statistical Service | Accra, Ghana\n2012–2013\n\nManaged national census data for over 25 million citizens\nConducted data validation and digital cleanup to ensure the accuracy of national records\nCollaborated with regional teams to standardize data collection methodologies\nContributed to the development of data visualization tools for public information dissemination\n\n\n\n\nKRIF Ghana Ltd. | Accra, Ghana\n2010–2012\n\nManaged daily transactions with precision, ensuring accuracy in retail operations\nBalanced cash drawers with 100% accuracy and maintained detailed financial records\nProvided exceptional customer service, contributing to increased customer satisfaction\nAssisted in inventory management and product restocking\n\n\n\n\n\n\n\nInnovations for Poverty Action | Ghana\nAug–Sept 2010\n\nAdministered student assessments in rural schools across Ghana\nSupported classroom teaching and contributed to measuring educational outcomes\nDeveloped supplementary learning materials for students with diverse learning needs\n\n\n\n\n\n\nTechnical: Data Analysis, MS Office Suite, CRM Systems, Financial Modeling\nManagement: Strategic Planning, Team Leadership, Project Management, Time Management\nClient Relations: Relationship Building, Needs Assessment, Conflict Resolution\nCommunication: Public Speaking, Business Writing, Cross-cultural Communication\nIndustry Knowledge: Banking Operations, Financial Products, Regulatory Compliance\n\n\n\n\n\nCertified Banking Professional (CBP), 2019\nProject Management Professional (PMP), 2018\nFinancial Modeling & Valuation Analyst (FMVA), 2017\n\n\n\n\n\nEnglish (Native)\nTwi (Native)\nFrench (Basic)\n\nView my projects Contact me"
+  },
+  {
+    "objectID": "resume.html#professional-summary",
+    "href": "resume.html#professional-summary",
+    "title": "Resume",
+    "section": "",
+    "text": "An MBA candidate with over 10 years of experience in banking and client relations, currently transitioning into data analytics and digital transformation. Adept at managing portfolios, leading teams, and enhancing community wellness through mental health initiatives. Recognized for strong leadership, operational efficiency, and exceptional interpersonal skills."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "",
+    "text": "University Canada West | Vancouver, BC\nExpected 2025\n\n\n\nYale School of Management | U.S.A\n2020\n\n\n\nMIT Sloan School of Management | U.S.A\n2020\n\n\n\nUniversity of Ghana | Accra, Ghana\n2010"
+  },
+  {
+    "objectID": "resume.html#professional-experience",
+    "href": "resume.html#professional-experience",
+    "title": "Resume",
+    "section": "",
+    "text": "Coast Mental Health | Vancouver, BC\n2023–Present\n\nProvide compassionate wellness support through active listening and empathy\nCollaborate with interdisciplinary healthcare teams to develop and maintain individualized care plans for clients\nFacilitate group sessions focused on mental health awareness and coping strategies\nDocument client interactions and progress in accordance with organizational protocols\n\n\n\n\nGTBANK Ghana | Accra, Ghana\n2017–2023\n\nDeveloped tailored client strategies, effectively managing a diverse portfolio of over 100 high-value clients\nLed and mentored a team of 5 account officers, enhancing customer retention by 18%\nImplemented digital banking solutions that increased client adoption of online services by 35%\nExceeded annual revenue targets by an average of 15% through strategic relationship management\nCollaborated with cross-functional teams to develop and launch new financial products\n\n\n\n\nXYZ Bank | Ghana\n2015–2022\n\nManaged high-net-worth portfolios totaling over $50M, achieving a 22% increase in asset value\nLed a team of 8 professionals, consistently surpassing quarterly sales and service goals\nDeveloped and implemented client retention strategies that improved satisfaction scores by 27%\nStreamlined operational processes, reducing transaction processing time by 30%\nRecognized as “Manager of the Year” for two consecutive years (2019, 2020)\n\n\n\n\nGTBANK Ghana | Accra, Ghana\n2013–2017\n\nProcessed and managed client account applications, resolving issues promptly\nSupported client acquisition and customer service campaigns, improving retention by 15%\nTrained new staff members on bank procedures and customer service protocols\nMaintained accurate records and ensured compliance with banking regulations\nReceived “Customer Service Excellence” award in 2016\n\n\n\n\nGhana Statistical Service | Accra, Ghana\n2012–2013\n\nManaged national census data for over 25 million citizens\nConducted data validation and digital cleanup to ensure the accuracy of national records\nCollaborated with regional teams to standardize data collection methodologies\nContributed to the development of data visualization tools for public information dissemination\n\n\n\n\nKRIF Ghana Ltd. | Accra, Ghana\n2010–2012\n\nManaged daily transactions with precision, ensuring accuracy in retail operations\nBalanced cash drawers with 100% accuracy and maintained detailed financial records\nProvided exceptional customer service, contributing to increased customer satisfaction\nAssisted in inventory management and product restocking"
+  },
+  {
+    "objectID": "resume.html#projects-volunteering",
+    "href": "resume.html#projects-volunteering",
+    "title": "Resume",
+    "section": "",
+    "text": "Innovations for Poverty Action | Ghana\nAug–Sept 2010\n\nAdministered student assessments in rural schools across Ghana\nSupported classroom teaching and contributed to measuring educational outcomes\nDeveloped supplementary learning materials for students with diverse learning needs"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Resume",
+    "section": "",
+    "text": "Technical: Data Analysis, MS Office Suite, CRM Systems, Financial Modeling\nManagement: Strategic Planning, Team Leadership, Project Management, Time Management\nClient Relations: Relationship Building, Needs Assessment, Conflict Resolution\nCommunication: Public Speaking, Business Writing, Cross-cultural Communication\nIndustry Knowledge: Banking Operations, Financial Products, Regulatory Compliance"
+  },
+  {
+    "objectID": "resume.html#certifications",
+    "href": "resume.html#certifications",
+    "title": "Resume",
+    "section": "",
+    "text": "Certified Banking Professional (CBP), 2019\nProject Management Professional (PMP), 2018\nFinancial Modeling & Valuation Analyst (FMVA), 2017"
+  },
+  {
+    "objectID": "resume.html#languages",
+    "href": "resume.html#languages",
+    "title": "Resume",
+    "section": "",
+    "text": "English (Native)\nTwi (Native)\nFrench (Basic)\n\nView my projects Contact me"
+  }
+]
