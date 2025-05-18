@@ -6,10 +6,10 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/in/edward-martin-apreku
+      href: http://linkedin.com/in/edward-apreku-11b1b752
     - icon: github
       text: Github
-      href: https://github.com/edwardapreku
+      href: https://github.com/Apreku247
     - icon: envelope
       text: Email
       href: mailto:apreku247@gmail.com
